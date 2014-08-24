@@ -1,0 +1,21 @@
+{
+  "name": "angularapp",
+  "version": "1.0.0",
+  "description": "Test app for learning Angular",
+  "main": "index.html",
+  "authors": [
+    "Daniel McEwen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.23",
+    "bower-foundation": "~4.0.0"
+  }
+}
